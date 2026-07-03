@@ -5,8 +5,6 @@ url: "https://lyulab.org"
 
 permalink: pretty
 markdown: kramdown
-kramdown:
-  parse_block_html: true
 
 exclude:
         - .sass-cache/
