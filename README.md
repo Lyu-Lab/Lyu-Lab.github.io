@@ -1,6 +1,6 @@
 # lyulab.org
 
-Website for the Lyu Lab (Evnin Family Laboratory of Computational Molecular Discovery) at The Rockefeller University. Built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages. The structure is adapted from the [Fraser Lab website](https://github.com/fraser-lab/fraser-lab.github.io).
+Website for the Lyu Lab (Evnin Family Laboratory of Computational Molecular Discovery) at The Rockefeller University. Built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages.
 
 ## Local development
 
