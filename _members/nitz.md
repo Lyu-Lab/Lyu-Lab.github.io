@@ -7,6 +7,6 @@ image: /static/img/members/nitz.jpeg
 position: Graduate Student
 note: "Co-mentored with Jeremy Rock (Rockefeller)"
 education: "B.S., 2022, MIT"
-github: https://github.com/s-nitz
+github: s-nitz
 scholar: AtrLD1kAAAAJ
 ---
