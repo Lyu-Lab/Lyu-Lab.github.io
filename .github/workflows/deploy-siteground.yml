@@ -45,6 +45,7 @@ jobs:
           REMOTE_PORT: '18765'
           SOURCE: '_site/'
           TARGET: ${{ secrets.SITEGROUND_PATH }}
-          # First deploy runs WITHOUT --delete so we never wipe public_html
-          # before verifying. Switch to '-rltvz --delete' once confirmed + backed up.
-          ARGS: '-rltvz'
+          # --delete keeps public_html an exact mirror of the built site (removes
+          # stale files, incl. the old WordPress install). Exclude .well-known so
+          # SiteGround's Let's Encrypt HTTP validation is never disturbed.
+          ARGS: '-rltvz --delete --exclude=.well-known'
