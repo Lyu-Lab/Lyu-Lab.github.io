@@ -2,6 +2,8 @@
 #   image   — path under static/img/gallery/ (upload the image file there first)
 #   caption — shown under the photo
 
+- image: /static/img/gallery/brandon-farewell-2026.jpg
+  caption: 2026 Brandon's farewell party
 - image: /static/img/gallery/holiday-bowling-2025.jpg
   caption: 2025 holiday bowling party
 - image: /static/img/gallery/escape-room-2024.jpg

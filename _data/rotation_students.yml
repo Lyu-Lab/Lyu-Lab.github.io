@@ -1,9 +1,6 @@
 # Rotation students archive — students who rotated through the lab.
 # Add one entry per student (name, program, optional term). Renders on the People page.
 
-- name: Chengyuan Li
-  program: Tri-Institutional PhD Program in Computational Biology & Medicine
-  term: "2026"
 - name: Chloe Schaefer
   program: David Rockefeller Graduate Program
   term: "2025"
